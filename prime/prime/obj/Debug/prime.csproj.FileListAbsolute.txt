@@ -1,7 +1,0 @@
-C:\Users\Acer\source\repos\prime\prime\bin\Debug\prime.exe.config
-C:\Users\Acer\source\repos\prime\prime\bin\Debug\prime.exe
-C:\Users\Acer\source\repos\prime\prime\bin\Debug\prime.pdb
-C:\Users\Acer\source\repos\prime\prime\obj\Debug\prime.csprojAssemblyReference.cache
-C:\Users\Acer\source\repos\prime\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\prime\prime\obj\Debug\prime.exe
-C:\Users\Acer\source\repos\prime\prime\obj\Debug\prime.pdb

@@ -1,7 +1,0 @@
-C:\Users\Acer\source\repos\palindrom\palindrom\bin\Debug\palindrom.exe.config
-C:\Users\Acer\source\repos\palindrom\palindrom\bin\Debug\palindrom.exe
-C:\Users\Acer\source\repos\palindrom\palindrom\bin\Debug\palindrom.pdb
-C:\Users\Acer\source\repos\palindrom\palindrom\obj\Debug\palindrom.csprojAssemblyReference.cache
-C:\Users\Acer\source\repos\palindrom\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\palindrom\palindrom\obj\Debug\palindrom.exe
-C:\Users\Acer\source\repos\palindrom\palindrom\obj\Debug\palindrom.pdb

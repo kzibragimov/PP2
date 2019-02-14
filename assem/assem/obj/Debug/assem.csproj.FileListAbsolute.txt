@@ -1,7 +1,0 @@
-C:\Users\Acer\source\repos\assem\assem\bin\Debug\assem.exe.config
-C:\Users\Acer\source\repos\assem\assem\bin\Debug\assem.exe
-C:\Users\Acer\source\repos\assem\assem\bin\Debug\assem.pdb
-C:\Users\Acer\source\repos\assem\assem\obj\Debug\assem.csprojAssemblyReference.cache
-C:\Users\Acer\source\repos\assem\assem\obj\Debug\assem.csproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\assem\assem\obj\Debug\assem.exe
-C:\Users\Acer\source\repos\assem\assem\obj\Debug\assem.pdb

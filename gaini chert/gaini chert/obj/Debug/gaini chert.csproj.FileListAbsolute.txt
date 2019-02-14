@@ -1,6 +1,0 @@
-C:\Users\Acer\source\repos\gaini chert\gaini chert\bin\Debug\gaini chert.exe.config
-C:\Users\Acer\source\repos\gaini chert\gaini chert\bin\Debug\gaini chert.exe
-C:\Users\Acer\source\repos\gaini chert\gaini chert\bin\Debug\gaini chert.pdb
-C:\Users\Acer\source\repos\gaini chert\gaini chert\obj\Debug\gaini chert.csproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\gaini chert\gaini chert\obj\Debug\gaini chert.exe
-C:\Users\Acer\source\repos\gaini chert\gaini chert\obj\Debug\gaini chert.pdb
