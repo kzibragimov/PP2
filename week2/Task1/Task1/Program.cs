@@ -12,12 +12,12 @@ namespace Task1
         static void Main(string[] args)
         {
 
-            StreamReader s = new StreamReader("palin.txt");
-            string n = s.ReadToEnd();
+            StreamReader s = new StreamReader("palin.txt");//даем название файла
+            string n = s.ReadToEnd(); //читаем содержимое файла
             char[] m = n.ToCharArray();
-            Array.Reverse(m);
+            Array.Reverse(m); //реверсируем слово
             string b = new string(m);
-            if (n.Equals(b))
+            if (n.Equals(b)) //если реверс и обычное слово равны они палиндром
             {
                 Console.WriteLine("Yes");
             }
@@ -25,6 +25,7 @@ namespace Task1
             {
                 Console.WriteLine("No");
             }
+            Console.ReadKey();
 
         }
     }
